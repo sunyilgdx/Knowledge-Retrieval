@@ -19,7 +19,7 @@ The related papers of Knowledge and Retrieval
 
 3. **REALM: Retrieval-Augmented Language Model Pre Training** *arXiv2020* [[paper](https://arxiv.org/abs/2002.08909)]
 
-4. **Zero-Shot Entity Linking with Dense Entity Retrieval** ** *arXiv2020* [[paper](https://arxiv.org/abs/1911.03814v2)]
+4. **Zero-Shot Entity Linking with Dense Entity Retrieval** *arXiv2020* [[paper](https://arxiv.org/abs/1911.03814v2)]
 
 5. **Dense Passage Retrieval for Open-Domain Question Answering** *ACL2020* [[paper](https://arxiv.org/abs/1908.10084) / [code](https://fburl.com/qa-dpr)]
 
