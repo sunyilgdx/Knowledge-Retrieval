@@ -25,6 +25,7 @@ The related papers of Knowledge and Retrieval
 
 6. **Latent Retrieval for Weakly Supervised Open domain Question Answering** *ACL2019* [[paper](https://arxiv.org/pdf/1906.00300.pdf)]
 
+7. **Learning to Learn from Weak Supervision by Full Supervision** *ICML 2018* [[paper](http://metalearning.ml/2017/papers/metalearn17_dehghani.pdf)]
 
 ## [Related papers](#content)
 
@@ -32,3 +33,4 @@ The related papers of Knowledge and Retrieval
 ## [Others](#content)
 1. [XLink](https://github.com/solitaryzero/XLink)
 2. [OpenMatch](https://github.com/thunlp/OpenMatch)
+3. [NeuIRPapers](https://github.com/thunlp/NeuIRPapers)
