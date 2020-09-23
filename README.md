@@ -26,4 +26,8 @@ The related papers of Knowledge and Retrieval
 6. **Latent Retrieval for Weakly Supervised Open domain Question Answering** *ACL2019* [[paper](https://arxiv.org/pdf/1906.00300.pdf)]
 
 
+## [Related papers](#content)
 
+
+## [Others](#content)
+1. [XLink](https://github.com/solitaryzero/XLink)
