@@ -31,3 +31,4 @@ The related papers of Knowledge and Retrieval
 
 ## [Others](#content)
 1. [XLink](https://github.com/solitaryzero/XLink)
+2. [OpenMatch](https://github.com/thunlp/OpenMatch)
