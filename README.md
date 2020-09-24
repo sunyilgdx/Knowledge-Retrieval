@@ -36,3 +36,4 @@ The related papers of Knowledge and Retrieval
 1. [XLink](https://github.com/solitaryzero/XLink)
 2. [OpenMatch](https://github.com/thunlp/OpenMatch)
 3. [NeuIRPapers](https://github.com/thunlp/NeuIRPapers)
+4. [碎碎念：Transformer的细枝末节](https://zhuanlan.zhihu.com/p/60821628)
