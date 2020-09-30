@@ -14,14 +14,14 @@ The related papers of Knowledge and Retrieval
 
 ## [Retieval-Papers](#content) 
 1. **Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks** *EMNLP 2019* [[paper](https://arxiv.org/abs/1908.10084) / [code](https://github.com/UKPLab/sentence-transformers)]
-
-<img src="./images/SentenceBERT.jpg" width="300"  alt="model structure"/><br/>
+<br/><img src="./images/SentenceBERT.jpg" width="300"  alt="model structure"/><br/>
 
 2. **DC-BERT: Decoupling Question and Document for Efficient Contextual Encoding** *SIGIR2020* [[paper](https://arxiv.org/pdf/2002.12591.pdf)]
-
-<img src="./images/DC-BERT.jpg" width="500"  alt="model structure"/><br/>
+<br/><img src="./images/DC-BERT.jpg" width="500"  alt="model structure"/><br/>
 
 3. **REALM: Retrieval-Augmented Language Model Pre Training** *arXiv2020* [[paper](https://arxiv.org/abs/2002.08909)]
+<br/><img src="./images/REALM.jpg" width="500"  alt="model structure"/><br/>
+<br/><img src="./images/REALM02.jpg" width="500"  alt="model structure"/><br/>
 
 4. **Zero-Shot Entity Linking with Dense Entity Retrieval** *arXiv2020* [[paper](https://arxiv.org/abs/1911.03814v2)]
 
