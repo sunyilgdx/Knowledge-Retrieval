@@ -20,7 +20,7 @@ The related papers of Knowledge and Retrieval
 <br/><img src="./images/DC-BERT.jpg" width="500"  alt="model structure"/><br/>
 
 3. **REALM: Retrieval-Augmented Language Model Pre Training** *arXiv2020* [[paper](https://arxiv.org/abs/2002.08909)]
-<br/><img src="./images/REALM.jpg" width="500"  alt="model structure"/><br/>
+<br/><img src="./images/REALM.jpg" width="800"  alt="model structure"/><br/>
 <br/><img src="./images/REALM02.jpg" width="500"  alt="model structure"/><br/>
 
 4. **Zero-Shot Entity Linking with Dense Entity Retrieval** *arXiv2020* [[paper](https://arxiv.org/abs/1911.03814v2)]
