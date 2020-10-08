@@ -46,7 +46,7 @@ The related papers of Knowledge and Retrieval
 <br/><img src="./images/ORQA.jpg" width="800"  alt="model structure"/><br/>
 
 7. **Learning to Learn from Weak Supervision by Full Supervision** *ICML 2018* [[paper](http://metalearning.ml/2017/papers/metalearn17_dehghani.pdf)]
-<br/><img src="./images/ORQA.jpg" width="900"  alt="model structure"/><br/>
+<br/><img src="./images/L2LWS.jpg" width="900"  alt="model structure"/><br/>
 8. **Selective Weak Supervision for Neural Information Retrieval** *WWW 2020* [[paper](https://arxiv.org/abs/2001.10382)]
 
 ## [Related papers](#content)
