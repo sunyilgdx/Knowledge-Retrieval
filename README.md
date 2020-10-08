@@ -41,3 +41,4 @@ The related papers of Knowledge and Retrieval
 2. [OpenMatch](https://github.com/thunlp/OpenMatch)
 3. [NeuIRPapers](https://github.com/thunlp/NeuIRPapers)
 4. [碎碎念：Transformer的细枝末节](https://zhuanlan.zhihu.com/p/60821628)
+5. [BERT模型可以使用无监督的方法做文本相似度任务吗？](https://www.zhihu.com/question/354129879)
