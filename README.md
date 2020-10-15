@@ -58,3 +58,4 @@ The related papers of Knowledge and Retrieval
 3. [NeuIRPapers](https://github.com/thunlp/NeuIRPapers)
 4. [碎碎念：Transformer的细枝末节](https://zhuanlan.zhihu.com/p/60821628)
 5. [BERT模型可以使用无监督的方法做文本相似度任务吗？](https://www.zhihu.com/question/354129879)
+6. [Different deterministic behavior between CPU and CUDA for orthogonal initialization](https://github.com/pytorch/pytorch/issues/19013)
