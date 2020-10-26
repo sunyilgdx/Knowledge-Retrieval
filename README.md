@@ -55,6 +55,9 @@ The related papers of Knowledge and Retrieval
 <br/><img src="./images/L2LWS.jpg" width="900"  alt="model structure"/><br/>
 8. **Selective Weak Supervision for Neural Information Retrieval** *WWW 2020* [[paper](https://arxiv.org/abs/2001.10382)]
 
+9. **ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT** *SIGIR 2020* [[paper](https://arxiv.org/pdf/2004.12832.pdf)]
+<br/><img src="./images/ColBERT.jpg" width="900"  alt="model structure"/><br/>
+
 ## [Related papers](#content)
 
 
