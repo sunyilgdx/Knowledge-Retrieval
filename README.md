@@ -67,3 +67,4 @@ The related papers of Knowledge and Retrieval
 6. [Different deterministic behavior between CPU and CUDA for orthogonal initialization](https://github.com/pytorch/pytorch/issues/19013)
 7. [知识图谱 | 实体链接](https://zhuanlan.zhihu.com/p/81073607)
 8. [论文笔记 | 实体链接：问题、技术和解决方案](https://zhuanlan.zhihu.com/p/82302101)
+9. [检索式多轮问答系统模型总结](https://zhuanlan.zhihu.com/p/46366940)
