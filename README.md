@@ -11,7 +11,7 @@ The related papers of Knowledge and Retrieval
 ## [Knowledge-Papers](#content)
 1. **Chinese NER Using Lattice LSTM** *ACL 2018* [[paper](https://arxiv.org/pdf/1805.02023.pdf) / [code](https://github.com/jiesutd/LatticeLSTM)]
 
-2. **LAVA NAT: A Non-Autoregressive Translation Model with Look-AroundDecoding and Vocabulary Attention** *ACL 2020* [[paper](https://arxiv.org/pdf/2002.03084.pdf)]
+2. **LAVA NAT: A Non-Autoregressive Translation Model with Look-AroundDecoding and Vocabulary Attention** *ICML 2020* [[paper](https://arxiv.org/pdf/2002.03084.pdf)]
 <br/><img src="./images/NAT1.jpg" width="300"  alt="model structure"/><img src="./images/NAT2.jpg" width="350"  alt="model structure"/><br/>
 <br/><img src="./images/NAT3.jpg" width="600"  alt="model structure"/><br/>
 
