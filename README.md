@@ -12,9 +12,9 @@ The related papers of Knowledge and Retrieval
 1. **Chinese NER Using Lattice LSTM** *ACL 2018* [[paper](https://arxiv.org/pdf/1805.02023.pdf) / [code](https://github.com/jiesutd/LatticeLSTM)]
 
 2. **LAVA NAT: A Non-Autoregressive Translation Model with Look-AroundDecoding and Vocabulary Attention** *ACL 2020* [[paper](https://arxiv.org/pdf/2002.03084.pdf)]
-<br/><img src="./images/SentenceBERT.jpg" width="300"  alt="model structure"/><br/>
-<br/><img src="./images/SentenceBERT.jpg" width="300"  alt="model structure"/><br/>
-<br/><img src="./images/SentenceBERT.jpg" width="300"  alt="model structure"/><br/>
+<br/><img src="./images/NAT1.jpg" width="300"  alt="model structure"/><br/>
+<br/><img src="./images/NAT2.jpg" width="300"  alt="model structure"/><br/>
+<br/><img src="./images/NAT3.jpg" width="300"  alt="model structure"/><br/>
 
 ## [Retieval-Papers](#content) 
 1. **Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks** *EMNLP 2019* [[paper](https://arxiv.org/abs/1908.10084) / [code](https://github.com/UKPLab/sentence-transformers)]
