@@ -63,6 +63,7 @@ The related papers of Knowledge and Retrieval
 
 ## [Related papers](#content)
 
+1. **Fine-Tuning Pretrained Language Models:Weight Initializations, Data Orders, and Early Stopping** *arxiv 2020* [[paper](https://arxiv.org/abs/2002.06305)]
 
 ## [Others](#content)
 1. [XLink](https://github.com/solitaryzero/XLink)
