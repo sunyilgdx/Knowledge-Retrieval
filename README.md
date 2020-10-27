@@ -61,6 +61,11 @@ The related papers of Knowledge and Retrieval
 9. **ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT** *SIGIR 2020* [[paper](https://arxiv.org/pdf/2004.12832.pdf)]
 <br/><img src="./images/ColBERT.jpg" width="900"  alt="model structure"/><br/>
 
+10. **Poly-encoders:architectures and pre-trainingstrategies for fast and accurate multi-sentence scoring** *ICLR 2020* [[paper](https://arxiv.org/pdf/1906.00300.pdf)]
+<br/><img src="./images/Poly-encoders01.jpg" width="600"  alt="model structure"/><br/>
+<br/><img src="./images/Poly-encoders02.jpg" width="600"  alt="model structure"/><br/>
+
+
 ## [Related papers](#content)
 ### Model Fine-tune
 1. **Fine-Tuning Pretrained Language Models:Weight Initializations, Data Orders, and Early Stopping** *arxiv 2020* [[paper](https://arxiv.org/abs/2002.06305)]
