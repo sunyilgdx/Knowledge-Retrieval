@@ -62,8 +62,12 @@ The related papers of Knowledge and Retrieval
 <br/><img src="./images/ColBERT.jpg" width="900"  alt="model structure"/><br/>
 
 ## [Related papers](#content)
-
+### Model Fine-tune
 1. **Fine-Tuning Pretrained Language Models:Weight Initializations, Data Orders, and Early Stopping** *arxiv 2020* [[paper](https://arxiv.org/abs/2002.06305)]
+
+2. **Show Your Work: Improved Reporting of Experimental Results** *EMNLP 2019* [[paper](https://arxiv.org/pdf/1909.03004.pdf) / [code](https://github.com/allenai/allentune)]
+
+3. **Showing Your Work Doesn’t Always Work** *ACL 2020* [[paper](https://arxiv.org/pdf/2004.13705.pdf) / [code](https://github.com/castorini/meanmax)]
 
 ## [Others](#content)
 1. [XLink](https://github.com/solitaryzero/XLink)
