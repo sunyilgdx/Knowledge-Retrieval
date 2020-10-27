@@ -85,4 +85,4 @@ The related papers of Knowledge and Retrieval
 8. [论文笔记 | 实体链接：问题、技术和解决方案](https://zhuanlan.zhihu.com/p/82302101)
 9. [检索式多轮问答系统模型总结](https://zhuanlan.zhihu.com/p/46366940)
 10. [BERT在小米NLP业务中的实战探索](https://blog.csdn.net/weixin_42137700/article/details/105817884)
-<br/><img src="./images/xiaomi.jpg" width="900"  alt="model structure"/><br/>
+<br/><img src="./images/xiaomi.jpg" width="300"  alt="model structure"/><br/>
