@@ -69,6 +69,11 @@ The related papers of Knowledge and Retrieval
 
 3. **Showing Your Work Doesn’t Always Work** *ACL 2020* [[paper](https://arxiv.org/pdf/2004.13705.pdf) / [code](https://github.com/castorini/meanmax)]
 
+### Multi-task Training
+1. **How to Fine-Tune BERT for Text Classification?** *CCL 2019* [[paper](https://arxiv.org/abs/1905.05583) / [code](https://github.com/xuyige/BERT4doc-Classification)]
+
+            All the tasks share the BERT layers and the em-bedding layer.  The only layer that does not shareis the final classification layer, which means thateach task has a private classifier layer.
+
 ## [Others](#content)
 1. [XLink](https://github.com/solitaryzero/XLink)
 2. [OpenMatch](https://github.com/thunlp/OpenMatch)
