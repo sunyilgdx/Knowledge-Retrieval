@@ -27,7 +27,7 @@ The related papers of Knowledge and Retrieval
  
  ### Code Learning
  1. **Improving Question Answering over Incomplete KBs with Knowledge-Aware Reader** *ACL2019* [[paper](https://arxiv.org/abs/1905.07098) / [code](https://github.com/xwhan/Knowledge-Aware-Reader)]
- <br/><img src="./images/Entity Markers.jpg" width="700"  alt="model structure"/><br/>
+ <br/><img src="./images/Knowledge-Aware-Reader.jpg" width="700"  alt="model structure"/><br/>
  2. **Knowledge Enhanced Contextual Word Representations(KnowBERT)** *EMNLP2019* [[paper](https://arxiv.org/abs/1909.04164) / [code](https://github.com/allenai/kb)]
 
 ## [Retieval-Papers](#content) 
