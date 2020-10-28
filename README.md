@@ -29,6 +29,9 @@ The related papers of Knowledge and Retrieval
  1. **Improving Question Answering over Incomplete KBs with Knowledge-Aware Reader** *ACL2019* [[paper](https://arxiv.org/abs/1905.07098) / [code](https://github.com/xwhan/Knowledge-Aware-Reader)]
  <br/><img src="./images/Knowledge-Aware-Reader.jpg" width="700"  alt="model structure"/><br/>
  2. **Knowledge Enhanced Contextual Word Representations(KnowBERT)** *EMNLP2019* [[paper](https://arxiv.org/abs/1909.04164) / [code](https://github.com/allenai/kb)]
+ 
+ ### Knowledge or Entity Linker
+ 1. [self-supervised entity linker #19](https://github.com/allenai/kb/issues/19)
 
 ## [Retieval-Papers](#content) 
 1. **Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks** *EMNLP 2019* [[paper](https://arxiv.org/abs/1908.10084) / [code](https://github.com/UKPLab/sentence-transformers)]
