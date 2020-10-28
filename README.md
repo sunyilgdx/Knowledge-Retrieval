@@ -29,7 +29,7 @@ The related papers of Knowledge and Retrieval
  1. **Improving Question Answering over Incomplete KBs with Knowledge-Aware Reader** *ACL2019* [[paper](https://arxiv.org/abs/1905.07098) / [code](https://github.com/xwhan/Knowledge-Aware-Reader)]
  <br/><img src="./images/Knowledge-Aware-Reader.jpg" width="700"  alt="model structure"/><br/>
  2. **Knowledge Enhanced Contextual Word Representations(KnowBERT)** *EMNLP2019* [[paper](https://arxiv.org/abs/1909.04164) / [code](https://github.com/allenai/kb)]
- 
+  <br/><img src="./images/KnowBERT.jpg" width="600"  alt="model structure"/><br/>
  ### Knowledge or Entity Linker
  1. [self-supervised entity linker #19](https://github.com/allenai/kb/issues/19)
 
