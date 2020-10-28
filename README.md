@@ -30,11 +30,14 @@ The related papers of Knowledge and Retrieval
  <br/><img src="./images/Knowledge-Aware-Reader.jpg" width="700"  alt="model structure"/><br/>
  2. **Knowledge Enhanced Contextual Word Representations(KnowBERT)** *EMNLP2019* [[paper](https://arxiv.org/abs/1909.04164) / [code](https://github.com/allenai/kb)]
   <br/><img src="./images/KnowBERT.jpg" width="600"  alt="model structure"/><br/>
+  
  ### Knowledge or Entity Linker
  1. [self-supervised entity linker #19](https://github.com/allenai/kb/issues/19)
+ 2. **Scalable Zero-shot Entity Linking with Dense Entity Retrieval** *EMNLP2019* [[paper](https://arxiv.org/abs/1909.04164) / [code](https://github.com/facebookresearch/BLINK/tree/master/blink)]
+  <br/><img src="./images/BLINK.jpg" width="600"  alt="model structure"/><br/>
 
 ## [Retieval-Papers](#content) 
-1. **Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks** *EMNLP 2019* [[paper](https://arxiv.org/abs/1908.10084) / [code](https://github.com/UKPLab/sentence-transformers)]
+1. **Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks** *EMNLP 2019* [[paper](https://arxiv.org/pdf/1911.03814.pdf) / [code](https://github.com/UKPLab/sentence-transformers)]
 <br/><img src="./images/SentenceBERT.jpg" width="300"  alt="model structure"/><br/>
 
 2. **DC-BERT: Decoupling Question and Document for Efficient Contextual Encoding** *SIGIR2020* [[paper](https://arxiv.org/pdf/2002.12591.pdf)]
