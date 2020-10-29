@@ -113,3 +113,4 @@ The related papers of Knowledge and Retrieval
 10. [BERT在小米NLP业务中的实战探索](https://blog.csdn.net/weixin_42137700/article/details/105817884)
 <br/><img src="./images/xiaomi.jpg" width="300"  alt="model structure"/><br/>
 11. [融合知识的检索模型汇总（持续更新）](https://zhuanlan.zhihu.com/p/110371338)
+12. [NLP数据增强方法总结：EDA、BT、MixMatch、UDA](https://blog.csdn.net/xixiaoyaoww/article/details/104688002)
