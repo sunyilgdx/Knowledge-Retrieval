@@ -18,6 +18,9 @@ The related papers of Knowledge and Retrieval
 3. **Blank Language Models** *EMNLP 2020* [[paper](https://arxiv.org/pdf/2002.03079.pdf) / [code](https://github.com/Varal7/blank_language_model)]
 <br/><img src="./images/BLM.jpg" width="600"  alt="model structure"/><br/>
 
+4. **Spelling Error Correction with Soft-Masked BERT** *ACL 2020* [[paper](https://arxiv.org/pdf/2005.07421.pdf)]
+
+
 ### Weak supervisory signal or Marker
 1. **Matching the Blanks: Distributional Similarity for Relation Learning** *ACL2019* [[paper](https://arxiv.org/pdf/1906.03158v1.pdf)]
  <br/><img src="./images/Entity Markers.jpg" width="700"  alt="model structure"/><br/>
