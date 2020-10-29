@@ -25,10 +25,10 @@ The related papers of Knowledge and Retrieval
 2. **MarkedBERT: Integrating Traditional IR Cues in Pre-trainedLanguage Models for Passage Retrieval** *SIGIR2020* [[paper](https://arxiv.org/pdf/1906.03158v1.pdf) / [code](https://github.com/BOUALILILila/markers_bert)]
  <br/><img src="./images/MarkedBERT.jpg" width="400"  alt="model structure"/><br/>
  
-3. **GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge** ** [[paper](https://arxiv.org/pdf/1908.07245.pdf) / [code](https://github.com/HSLCY/GlossBERT)]
+3. **GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge** *ENMLP2019* [[paper](https://arxiv.org/pdf/1908.07245.pdf) / [code](https://github.com/HSLCY/GlossBERT)]
  <br/><img src="./images/GlossBERT.jpg" width="500"  alt="model structure"/><br/>
  
-4.**Enriching Pre-trained Language Model with Entity Information for Relation Classification** ** [[paper](https://arxiv.org/pdf/1905.08284.pdf)]
+4.**Enriching Pre-trained Language Model with Entity Information for Relation Classification** *arxiv2019* [[paper](https://arxiv.org/pdf/1905.08284.pdf)]
  <br/><img src="./images/R-BERT.jpg" width="500"  alt="model structure"/><br/>
  
  ### Code Learning
