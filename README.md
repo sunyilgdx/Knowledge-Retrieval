@@ -44,6 +44,8 @@ The related papers of Knowledge and Retrieval
  1. [self-supervised entity linker #19](https://github.com/allenai/kb/issues/19)
  2. **Scalable Zero-shot Entity Linking with Dense Entity Retrieval** *EMNLP2019* [[paper](https://arxiv.org/abs/1909.04164) / [code](https://github.com/facebookresearch/BLINK/tree/master/blink)]
   <br/><img src="./images/BLINK.jpg" width="600"  alt="model structure"/><br/>
+ 3. **Evaluating the Impact of Knowledge Graph Context on EntityDisambiguation Models** *EMNLP2020* [[paper](https://arxiv.org/pdf/2008.05190.pdf)]
+   <br/><img src="./images/KG Context.jpg" width="800"  alt="model structure"/><br/>
 
 ## [Retieval-Papers](#content) 
 1. **Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks** *EMNLP 2019* [[paper](https://arxiv.org/pdf/1911.03814.pdf) / [code](https://github.com/UKPLab/sentence-transformers)]
