@@ -21,7 +21,7 @@ The related papers of Knowledge and Retrieval
 4. **Spelling Error Correction with Soft-Masked BERT** *ACL 2020* [[paper](https://arxiv.org/pdf/2005.07421.pdf) / [code](https://blog.csdn.net/qq_35128926/article/details/106770581)]
 
 5. **Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning (GLM)** *arxiv2020*
-<br/><img src="./images/GLM01.jpg" width="500"  alt="model structure"/><br/>
+<br/><img src="./images/GLM01.jpg" width="600"  alt="model structure"/><br/>
 <br/><img src="./images/GLM02.jpg" width="700"  alt="model structure"/><br/>
 
 
