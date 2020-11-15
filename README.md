@@ -6,7 +6,8 @@ The related papers of Knowledge and Retrieval
 1. [Knowledge-Papers](#k-papers)
 2. [Retieval-Papers](#d-papers)
 3. [Related papers](#related-papers)
-4. [Others](#others)
+4. [Competitions](#competitions)
+5. [Others](#others)
 
 ## [Knowledge-Papers](#content)
 1. **Chinese NER Using Lattice LSTM** *ACL 2018* [[paper](https://arxiv.org/pdf/1805.02023.pdf) / [code](https://github.com/jiesutd/LatticeLSTM)]
@@ -101,17 +102,27 @@ The related papers of Knowledge and Retrieval
 
 
 ## [Related papers](#content)
-### Model Fine-tune
+### `Model Fine-tune`
 1. **Fine-Tuning Pretrained Language Models:Weight Initializations, Data Orders, and Early Stopping** *arxiv 2020* [[paper](https://arxiv.org/abs/2002.06305)]
 
 2. **Show Your Work: Improved Reporting of Experimental Results** *EMNLP 2019* [[paper](https://arxiv.org/pdf/1909.03004.pdf) / [code](https://github.com/allenai/allentune)]
 
 3. **Showing Your Work Doesn’t Always Work** *ACL 2020* [[paper](https://arxiv.org/pdf/2004.13705.pdf) / [code](https://github.com/castorini/meanmax)]
 
-### Multi-task Training
+### `Multi-task Training`
 1. **How to Fine-Tune BERT for Text Classification?** *CCL 2019* [[paper](https://arxiv.org/abs/1905.05583) / [code](https://github.com/xuyige/BERT4doc-Classification) / [post](https://zhuanlan.zhihu.com/p/109143667?from_voters_page=true)]
 
        All the tasks share the BERT layers and the em-bedding layer.  The only layer that does not shareis the final classification layer, which means thateach task has a private classifier layer.
+
+## [Competitions](#competitions)
+
+### `Entity Linking`
+1. **CCKS2020 任务二：面向中文短文本的实体链指**
+[官方链接](http://sigkg.cn/ccks2020/?page_id=516)
+[任务书](http://sigkg.cn/ccks2020/wp-content/uploads/2020/05/2-CCKS2020%E6%8A%80%E6%9C%AF%E8%AF%84%E6%B5%8B-%E9%9D%A2%E5%90%91%E4%B8%AD%E6%96%87%E7%9F%AD%E6%96%87%E6%9C%AC%E7%9A%84%E5%AE%9E%E4%BD%93%E9%93%BE%E6%8C%87.docx)
+[biendata](https://www.biendata.xyz/competition/ccks_2020_el/)
+[Baseline](https://github.com/PaddlePaddle/Research/tree/master/KG/DuEL_Baseline)
+
 
 ## [Others](#content)
 1. [XLink](https://github.com/solitaryzero/XLink)
