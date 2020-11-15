@@ -26,6 +26,8 @@ The related papers of Knowledge and Retrieval
 <br/><img src="./images/GLM01.jpg" width="600"  alt="model structure"/><br/>
 <br/><img src="./images/GLM02.jpg" width="700"  alt="model structure"/><br/>
 
+6. **基于动态知识选择的预训练模型** *CCKS 2020* \[paper?\]
+
 
 ### `Weak supervisory signal or Marker`
 
