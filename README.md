@@ -34,6 +34,9 @@ The related papers of Knowledge and Retrieval
 4.**Enriching Pre-trained Language Model with Entity Information for Relation Classification** *arxiv2019* [[paper](https://arxiv.org/pdf/1905.08284.pdf)]
  <br/><img src="./images/R-BERT.jpg" width="500"  alt="model structure"/><br/>
  
+5. **A Frustratingly Easy Approach for Joint Entity and Relation Extraction** *arxiv2020* [[paper](https://arxiv.org/pdf/2010.12812.pdf)]
+ <br/><img src="./images/FAE.jpg" width="700"  alt="model structure"/><br/>
+ 
  ### Code Learning
  1. **Improving Question Answering over Incomplete KBs with Knowledge-Aware Reader** *ACL2019* [[paper](https://arxiv.org/abs/1905.07098) / [code](https://github.com/xwhan/Knowledge-Aware-Reader)]
  <br/><img src="./images/Knowledge-Aware-Reader.jpg" width="700"  alt="model structure"/><br/>
