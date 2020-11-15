@@ -124,6 +124,12 @@ The related papers of Knowledge and Retrieval
 [Baseline](https://github.com/PaddlePaddle/Research/tree/master/KG/DuEL_Baseline)|
 [小米知识图谱团队斩获CCKS 2020实体链指比赛冠军](https://mp.weixin.qq.com/s/4s9j-u2607Uo9y3psPeFBg)
 
+2. **CCKS2019**
+
+3. **百度BROAD Entity Linking**
+[官方链接](http://ai.baidu.com/broad/introduction)
+
+
 
 
 ## [Others](#content)
