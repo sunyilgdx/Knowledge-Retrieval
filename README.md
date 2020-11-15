@@ -21,7 +21,8 @@ The related papers of Knowledge and Retrieval
 4. **Spelling Error Correction with Soft-Masked BERT** *ACL 2020* [[paper](https://arxiv.org/pdf/2005.07421.pdf) / [code](https://blog.csdn.net/qq_35128926/article/details/106770581)]
 
 
-### Weak supervisory signal or Marker
+### `Weak supervisory signal or Marker`
+
 1. **Matching the Blanks: Distributional Similarity for Relation Learning** *ACL2019* [[paper](https://arxiv.org/pdf/1906.03158v1.pdf)]
  <br/><img src="./images/Entity Markers.jpg" width="700"  alt="model structure"/><br/>
 
@@ -37,13 +38,13 @@ The related papers of Knowledge and Retrieval
 5. **A Frustratingly Easy Approach for Joint Entity and Relation Extraction** *arxiv2020* [[paper](https://arxiv.org/pdf/2010.12812.pdf)]
  <br/><img src="./images/FAE.jpg" width="700"  alt="model structure"/><br/>
  
- ### Code Learning
+ ### `Code Learning`
  1. **Improving Question Answering over Incomplete KBs with Knowledge-Aware Reader** *ACL2019* [[paper](https://arxiv.org/abs/1905.07098) / [code](https://github.com/xwhan/Knowledge-Aware-Reader)]
  <br/><img src="./images/Knowledge-Aware-Reader.jpg" width="700"  alt="model structure"/><br/>
  2. **Knowledge Enhanced Contextual Word Representations(KnowBERT)** *EMNLP2019* [[paper](https://arxiv.org/abs/1909.04164) / [code](https://github.com/allenai/kb)]
   <br/><img src="./images/KnowBERT.jpg" width="600"  alt="model structure"/><br/>
   
- ### Knowledge or Entity Linker
+ ### `Knowledge or Entity Linker`
  1. [self-supervised entity linker #19](https://github.com/allenai/kb/issues/19)
  2. **Scalable Zero-shot Entity Linking with Dense Entity Retrieval** *EMNLP2019* [[paper](https://arxiv.org/abs/1909.04164) / [code](https://github.com/facebookresearch/BLINK/tree/master/blink)]
   <br/><img src="./images/BLINK.jpg" width="600"  alt="model structure"/><br/>
