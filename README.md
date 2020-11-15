@@ -7,7 +7,8 @@ The related papers of Knowledge and Retrieval
 2. [Retieval-Papers](#d-papers)
 3. [Related papers](#related-papers)
 4. [Competitions](#competitions)
-5. [Others](#others)
+5. [Conference](#conference)
+6. [Others](#others)
 
 ## [Knowledge-Papers](#content)
 1. **Chinese NER Using Lattice LSTM** *ACL 2018* [[paper](https://arxiv.org/pdf/1805.02023.pdf) / [code](https://github.com/jiesutd/LatticeLSTM)]
@@ -137,6 +138,7 @@ The related papers of Knowledge and Retrieval
 
 ## [会议](#conference)
 1. [**CCKS 2020**](http://sigkg.cn/ccks2020/)
+
 [Poster/Demo](https://hub.baai.ac.cn/view/4013)|
 [CCKS《前沿技术讲习班》 第22期：「知识图谱专题」资料全公开！](https://hub.baai.ac.cn/view/3931)
 
