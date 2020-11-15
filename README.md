@@ -123,18 +123,22 @@ The related papers of Knowledge and Retrieval
 [biendata](https://www.biendata.xyz/competition/ccks_2020_el/)|
 [Baseline](https://github.com/PaddlePaddle/Research/tree/master/KG/DuEL_Baseline)|
 [小米知识图谱团队斩获CCKS 2020实体链指比赛冠军](https://mp.weixin.qq.com/s/4s9j-u2607Uo9y3psPeFBg)
+[代码参考1](https://github.com/RegiusQuant/CCKS2020-Entity-Linking)
 
 2. **CCKS2019**
-[官方链接](http://www.ccks2019.cn/?page_id=62)
-[任务书](https://conference.bj.bcebos.com/ccks2019/eval/CCKS2019-eval-task2.docx)
-[biendata](https://github.com/panchunguang/ccks_baidu_entity_link)
+[官方链接](http://www.ccks2019.cn/?page_id=62)|
+[任务书](https://conference.bj.bcebos.com/ccks2019/eval/CCKS2019-eval-task2.docx)|
+[biendata](https://github.com/panchunguang/ccks_baidu_entity_link)|
 [CCKS&百度 2019中文短文本的实体链指 第一名解决方案](https://github.com/sunyilgdx/ccks_baidu_entity_link)
 
 3. **百度BROAD Entity Linking**
 [官方链接](http://ai.baidu.com/broad/introduction)
 
 
-
+## [会议](#conference)
+1. [**CCKS 2020**](http://sigkg.cn/ccks2020/)
+[Poster/Demo](https://hub.baai.ac.cn/view/4013)|
+[CCKS《前沿技术讲习班》 第22期：「知识图谱专题」资料全公开！](https://hub.baai.ac.cn/view/3931)
 
 ## [Others](#content)
 1. [XLink](https://github.com/solitaryzero/XLink)
