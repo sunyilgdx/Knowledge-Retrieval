@@ -118,10 +118,14 @@ The related papers of Knowledge and Retrieval
 
 ### `Entity Linking`
 1. **CCKS2020 任务二：面向中文短文本的实体链指**
-[官方链接](http://sigkg.cn/ccks2020/?page_id=516)
-[任务书](http://sigkg.cn/ccks2020/wp-content/uploads/2020/05/2-CCKS2020%E6%8A%80%E6%9C%AF%E8%AF%84%E6%B5%8B-%E9%9D%A2%E5%90%91%E4%B8%AD%E6%96%87%E7%9F%AD%E6%96%87%E6%9C%AC%E7%9A%84%E5%AE%9E%E4%BD%93%E9%93%BE%E6%8C%87.docx)
-[biendata](https://www.biendata.xyz/competition/ccks_2020_el/)
-[Baseline](https://github.com/PaddlePaddle/Research/tree/master/KG/DuEL_Baseline)
+[官方链接](http://sigkg.cn/ccks2020/?page_id=516)|
+[任务书](http://sigkg.cn/ccks2020/wp-content/uploads/2020/05/2-CCKS2020%E6%8A%80%E6%9C%AF%E8%AF%84%E6%B5%8B-%E9%9D%A2%E5%90%91%E4%B8%AD%E6%96%87%E7%9F%AD%E6%96%87%E6%9C%AC%E7%9A%84%E5%AE%9E%E4%BD%93%E9%93%BE%E6%8C%87.docx)|
+[biendata](https://www.biendata.xyz/competition/ccks_2020_el/)|
+[Baseline](https://github.com/PaddlePaddle/Research/tree/master/KG/DuEL_Baseline)|
+[小米知识图谱团队斩获CCKS 2020实体链指比赛冠军
+
+](https://mp.weixin.qq.com/s/4s9j-u2607Uo9y3psPeFBg)
+
 
 
 ## [Others](#content)
