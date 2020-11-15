@@ -125,6 +125,10 @@ The related papers of Knowledge and Retrieval
 [小米知识图谱团队斩获CCKS 2020实体链指比赛冠军](https://mp.weixin.qq.com/s/4s9j-u2607Uo9y3psPeFBg)
 
 2. **CCKS2019**
+[官方链接](http://www.ccks2019.cn/?page_id=62)
+[任务书](https://conference.bj.bcebos.com/ccks2019/eval/CCKS2019-eval-task2.docx)
+[biendata](https://github.com/panchunguang/ccks_baidu_entity_link)
+[CCKS&百度 2019中文短文本的实体链指 第一名解决方案](https://github.com/sunyilgdx/ccks_baidu_entity_link)
 
 3. **百度BROAD Entity Linking**
 [官方链接](http://ai.baidu.com/broad/introduction)
