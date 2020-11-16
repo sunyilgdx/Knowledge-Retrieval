@@ -28,6 +28,10 @@ The related papers of Knowledge and Retrieval
 
 6. **基于动态知识选择的预训练模型** *CCKS 2020* \[paper?\]
 
+7. **CoLAKE: Contextualized Language and Knowledge Embedding** *COLING 2020* [[paper](https://arxiv.org/pdf/2010.00309.pdf) / [code](https://github.com/txsun1997/CoLAKE)]
+<br/><img src="./images/CoLAKE01.jpg" width="600"  alt="model structure"/><br/>
+<br/><img src="./images/CoLAKE02.jpg" width="700"  alt="model structure"/><br/>
+
 
 ### `Weak supervisory signal or Marker`
 
