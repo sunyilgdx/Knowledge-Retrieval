@@ -145,6 +145,7 @@ The related papers of Knowledge and Retrieval
 4. **CCKS 2020: 面向试验鉴定的命名实体识别任务**
 [biendata](https://www.biendata.xyz/competition/ccks_2020_8/)|
 [Baseline1](https://github.com/jeffery0628/ccks2020-task8)|
+[Baseline2](https://github.com/AI-confused/CCKS2020_Military_NER_Baseline)|
 
 ## [会议](#conference)
 1. [**CCKS 2020**](http://sigkg.cn/ccks2020/)
