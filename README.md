@@ -62,6 +62,12 @@ The related papers of Knowledge and Retrieval
   <br/><img src="./images/BLINK.jpg" width="600"  alt="model structure"/><br/>
  3. **Evaluating the Impact of Knowledge Graph Context on Entity Disambiguation Models** *CIKM2020* [[paper](https://arxiv.org/pdf/2008.05190.pdf) / [code](https://github.com/mulangonando/Impact-of-KG-Context-on-ED)]
    <br/><img src="./images/KG Context.jpg" width="800"  alt="model structure"/><br/>
+   
+ ### `Masked Attention`
+ 1. **Table Fact Verification with Structure-Aware Transformer** *EMNLP2020* [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.126.pdf) / [code](https://github.com/zhhongzhi/sat)]
+  <br/><img src="./images/SAT01.jpg" width="200"  alt="model structure"/><br/>
+  <br/><img src="./images/SAT02.jpg" width="600"  alt="model structure"/><br/>
+ 
 
 ## [Retieval-Papers](#content) 
 1. **Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks** *EMNLP 2019* [[paper](https://arxiv.org/pdf/1911.03814.pdf) / [code](https://github.com/UKPLab/sentence-transformers)]
