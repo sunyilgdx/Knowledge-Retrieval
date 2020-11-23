@@ -65,7 +65,7 @@ The related papers of Knowledge and Retrieval
    
  ### `Masked Attention`
  1. **Table Fact Verification with Structure-Aware Transformer** *EMNLP2020* [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.126.pdf) / [code](https://github.com/zhhongzhi/sat)]
-  <br/><img src="./images/SAT01.jpg" width="200"  alt="model structure"/><br/>
+  <br/><img src="./images/SAT01.jpg" width="300"  alt="model structure"/><br/>
   <br/><img src="./images/SAT02.jpg" width="600"  alt="model structure"/><br/>
  
 
