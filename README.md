@@ -32,6 +32,9 @@ The related papers of Knowledge and Retrieval
 <br/><img src="./images/CoLAKE01.jpg" width="600"  alt="model structure"/><br/>
 <br/><img src="./images/CoLAKE02.jpg" width="700"  alt="model structure"/><br/>
 
+8. **JAKET: Joint Pre-training of Knowledge Graph and Language Understanding** *arxiv2020* [[paper](https://arxiv.org/pdf/2010.00796.pdf)]
+<br/><img src="./images/JAKET.jpg" width="700"  alt="model structure"/><br/>
+
 
 ### `Weak supervisory signal or Marker`
 
