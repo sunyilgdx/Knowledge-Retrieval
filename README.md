@@ -26,7 +26,7 @@ The related papers of Knowledge and Retrieval
 <br/><img src="./images/GLM01.jpg" width="600"  alt="model structure"/><br/>
 <br/><img src="./images/GLM02.jpg" width="700"  alt="model structure"/><br/>
 
-6. **基于动态知识选择的预训练模型** *CCKS 2020* \[paper? / [video](https://hub.baai.ac.cn/view/4095) / [PPT](https://hub-cache.baai.ac.cn/hub-pdf/20201123/CCKS2020-PPT/oral/session%207/%E9%83%AD%E5%B1%95%E6%88%90%20%E5%9F%BA%E4%BA%8E%E5%8A%A8%E6%80%81%E7%9F%A5%E8%AF%86%E9%80%89%E6%8B%A9%E7%9A%84%E9%A2%84%E8%AE%AD%E7%BB%83%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%206.pdf)\]
+6. **基于动态知识选择的预训练模型** *CCKS 2020* \[paper? / [video](https://hub.baai.ac.cn/view/4095) / [PPT](https://hub.baai.ac.cn/view/4155)\]
 
 7. **CoLAKE: Contextualized Language and Knowledge Embedding** *COLING 2020* [[paper](https://arxiv.org/pdf/2010.00309.pdf) / [code](https://github.com/txsun1997/CoLAKE)]
 <br/><img src="./images/CoLAKE01.jpg" width="600"  alt="model structure"/><br/>
