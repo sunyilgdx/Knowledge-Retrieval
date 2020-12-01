@@ -142,7 +142,7 @@ The related papers of Knowledge and Retrieval
 [Baseline1](https://github.com/PaddlePaddle/Research/tree/master/KG/DuEL_Baseline)|
 [Baseline2](https://github.com/nianxw/ccks2020_pytorch_baseline)|
 [Baseline3](https://github.com/RegiusQuant/CCKS2020-Entity-Linking)|
-[小米知识图谱团队斩获CCKS 2020实体链指比赛冠军](https://mp.weixin.qq.com/s/4s9j-u2607Uo9y3psPeFBg)
+[小米知识图谱团队斩获CCKS 2020实体链指比赛冠军](https://mp.weixin.qq.com/s/4s9j-u2607Uo9y3psPeFBg)[vidio](https://hub.baai.ac.cn/view/4130)
 [代码参考1](https://github.com/RegiusQuant/CCKS2020-Entity-Linking)
 
 2. **CCKS2019**
