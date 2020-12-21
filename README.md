@@ -39,11 +39,12 @@ The related papers of Knowledge and Retrieval
 
 9. **Do Fine-tuned Commonsense Language Models Really Generalize?** *arxiv2020* [[paper](https://arxiv.org/pdf/2011.09159.pdf)]
 
-10. **EFFECTIVE FAQ RETRIEVAL AND QUESTION MATCHING WITH UNSUPERVISEDKNOWLEDGE INJECTION **  *arxiv2020* [[paper](https://arxiv.org/ftp/arxiv/papers/2010/2010.14049.pdf) / [code](https://github.com/DTDwind/TaipeiQA)]
+10. **EFFECTIVE FAQ RETRIEVAL AND QUESTION MATCHING WITH UNSUPERVISEDKNOWLEDGE INJECTION**  *arxiv2020* [[paper](https://arxiv.org/ftp/arxiv/papers/2010/2010.14049.pdf) / [code](https://github.com/DTDwind/TaipeiQA)]
 
 ### `Conditional Model`
 
 1. **Conditional BERT Contextual Augmentation** *arxiv2018* [[paper](https://arxiv.org/pdf/1812.06705.pdf)]
+<br/><img src="./images/Conditional BERT.jpg" width="700"  alt="model structure"/><br/>
 
 
 ### `Weak supervisory signal or Marker`
