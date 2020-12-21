@@ -39,6 +39,8 @@ The related papers of Knowledge and Retrieval
 
 9. **Do Fine-tuned Commonsense Language Models Really Generalize?** *arxiv2020* [[paper](https://arxiv.org/pdf/2011.09159.pdf)]
 
+10. **EFFECTIVE FAQ RETRIEVAL AND QUESTION MATCHING WITH UNSUPERVISEDKNOWLEDGE INJECTION **  *arxiv2020* [[paper](https://arxiv.org/ftp/arxiv/papers/2010/2010.14049.pdf) / [code](https://github.com/DTDwind/TaipeiQA)]
+
 ### `Weak supervisory signal or Marker`
 
 1. **Matching the Blanks: Distributional Similarity for Relation Learning** *ACL2019* [[paper](https://arxiv.org/pdf/1906.03158v1.pdf)]
