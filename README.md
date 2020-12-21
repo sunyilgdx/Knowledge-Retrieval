@@ -143,6 +143,8 @@ The related papers of Knowledge and Retrieval
 11. **Learning Robust Models for e-Commerce Product Search** *ACL2020*  [[paper](https://arxiv.org/pdf/2005.03624.pdf)]
 <br/><img src="./images/QUARTS.jpg" width="600"  alt="model structure"/><br/>
 
+12. **Word Embeddings for Unsupervised Named Entity Linking** *KSEM2019* [[paper]()]
+
 ## [Related papers](#content)
 ### `Model Fine-tune`
 1. **Fine-Tuning Pretrained Language Models:Weight Initializations, Data Orders, and Early Stopping** *arxiv 2020* [[paper](https://arxiv.org/abs/2002.06305)]
