@@ -41,11 +41,24 @@ The related papers of Knowledge and Retrieval
 
 10. **EFFECTIVE FAQ RETRIEVAL AND QUESTION MATCHING WITH UNSUPERVISEDKNOWLEDGE INJECTION**  *arxiv2020* [[paper](https://arxiv.org/ftp/arxiv/papers/2010/2010.14049.pdf) / [code](https://github.com/DTDwind/TaipeiQA)]
 
+11. **Enriching BERT with Knowledge Graph Embeddings for DocumentClassification** *arxiv2019*
+<br/><img src="./images/BERT-Metadata-Author.jpg.jpg" width="700"  alt="model structure"/><br/>
+
 ### `Conditional Model`
 
 1. **Conditional BERT Contextual Augmentation** *arxiv2018* [[paper](https://arxiv.org/pdf/1812.06705.pdf)]
 <br/><img src="./images/Conditional BERT.jpg" width="700"  alt="model structure"/><br/>
 
+2. **BERT with History Answer Embedding for ConversationalQuestion Answering** *SIGIR2019* [[paper](https://arxiv.org/pdf/1905.05412.pdf)]
+<br/><img src="./images/HAE.jpg" width="700"  alt="model structure"/><br/>
+
+### `Theoretical analysis`
+
+1. **Why Do Masked Neural Language Models Still Need Common Sense Knowledge?** *arxiv2019* [[paper](https://arxiv.org/abs/1911.03024)]
+
+2. **How Can We Know What Language Models Know?** *TACL2020* [[paper](https://www.aclweb.org/anthology/2020.tacl-1.28.pdf)]
+
+3. **** **
 
 ### `Weak supervisory signal or Marker`
 
