@@ -37,6 +37,7 @@ The related papers of Knowledge and Retrieval
 8. **JAKET: Joint Pre-training of Knowledge Graph and Language Understanding** *arxiv2020* [[paper](https://arxiv.org/pdf/2010.00796.pdf)]
 <br/><img src="./images/JAKET.jpg" width="700"  alt="model structure"/><br/>
 
+9. **Do Fine-tuned Commonsense Language Models Really Generalize?** *arxiv2020* [[paper](https://arxiv.org/pdf/2011.09159.pdf)]
 
 ### `Weak supervisory signal or Marker`
 
