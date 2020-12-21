@@ -41,6 +41,11 @@ The related papers of Knowledge and Retrieval
 
 10. **EFFECTIVE FAQ RETRIEVAL AND QUESTION MATCHING WITH UNSUPERVISEDKNOWLEDGE INJECTION **  *arxiv2020* [[paper](https://arxiv.org/ftp/arxiv/papers/2010/2010.14049.pdf) / [code](https://github.com/DTDwind/TaipeiQA)]
 
+### `Conditional Model`
+
+1. **Conditional BERT Contextual Augmentation** *arxiv2018* [[paper](https://arxiv.org/pdf/1812.06705.pdf)]
+
+
 ### `Weak supervisory signal or Marker`
 
 1. **Matching the Blanks: Distributional Similarity for Relation Learning** *ACL2019* [[paper](https://arxiv.org/pdf/1906.03158v1.pdf)]
