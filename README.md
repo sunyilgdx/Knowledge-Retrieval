@@ -140,6 +140,9 @@ The related papers of Knowledge and Retrieval
 <br/><img src="./images/Poly-encoders01.jpg" width="600"  alt="model structure"/><br/>
 <br/><img src="./images/Poly-encoders02.jpg" width="600"  alt="model structure"/><br/>
 
+11. **Learning Robust Models for e-Commerce Product Search** *ACL2020*  [[paper](https://arxiv.org/pdf/2005.03624.pdf)]
+<br/><img src="./images/QUARTS.jpg" width="600"  alt="model structure"/><br/>
+
 ## [Related papers](#content)
 ### `Model Fine-tune`
 1. **Fine-Tuning Pretrained Language Models:Weight Initializations, Data Orders, and Early Stopping** *arxiv 2020* [[paper](https://arxiv.org/abs/2002.06305)]
