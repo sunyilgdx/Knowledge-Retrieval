@@ -159,6 +159,19 @@ The related papers of Knowledge and Retrieval
 
        All the tasks share the BERT layers and the em-bedding layer.  The only layer that does not shareis the final classification layer, which means thateach task has a private classifier layer.
        
+### `Curriculum learning`
+1. **A Comprehensive Survey on Curriculum Learning** *arxiv2020* [[paper](http://xxx.itp.ac.cn/abs/2010.13166)]
+<br/><img src="./images/cl-survey.jpg" width="600"  alt="model structure"/><br/>
+
+2. **Dynamic Curriculum Learning for Imbalanced Data Classification** *ICCV2020* [[paper](https://arxiv.org/pdf/1901.06783.pdf)]
+
+3. **Curriculum Learning by Dynamic Instance Hardness** *NISP2020* [[paper](https://github.com/tianyizhou/DIHCL/blob/main/paper/dihcl_neurips2020_main.pdf)/ [code](https://github.com/tianyizhou/DIHCL)]
+<br/><img src="./images/DIHC.jpg" width="600"  alt="model structure"/><br/>
+
+4. **On The Power of Curriculum Learning in Training Deep Networks** *ICML 2019* [[paper](https://arxiv.org/abs/1904.03626) / [code](https://github.com/GuyHacohen/curriculum_learning)]
+<br/><img src="./images/power-of-cl.jpg" width="600"  alt="model structure"/><br/>
+
+
 ### `Joint Model`
 1. [**信息抽取——实体关系联合抽取**](https://www.cnblogs.com/sandwichnlp/p/12049829.html)
 
