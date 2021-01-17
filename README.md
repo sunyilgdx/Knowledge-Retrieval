@@ -166,7 +166,7 @@ The related papers of Knowledge and Retrieval
 2. **Dynamic Curriculum Learning for Imbalanced Data Classification** *ICCV2020* [[paper](https://arxiv.org/pdf/1901.06783.pdf)]
 
 3. **Curriculum Learning by Dynamic Instance Hardness** *NISP2020* [[paper](https://github.com/tianyizhou/DIHCL/blob/main/paper/dihcl_neurips2020_main.pdf)/ [code](https://github.com/tianyizhou/DIHCL)]
-<br/><img src="./images/DIHC.jpg" width="600"  alt="model structure"/><br/>
+<br/><img src="./images/DIHCL.jpg" width="600"  alt="model structure"/><br/>
 
 4. **On The Power of Curriculum Learning in Training Deep Networks** *ICML 2019* [[paper](https://arxiv.org/abs/1904.03626) / [code](https://github.com/GuyHacohen/curriculum_learning)]
 <br/><img src="./images/power-of-cl.jpg" width="600"  alt="model structure"/><br/>
