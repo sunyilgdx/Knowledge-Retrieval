@@ -171,6 +171,8 @@ The related papers of Knowledge and Retrieval
 4. **On The Power of Curriculum Learning in Training Deep Networks** *ICML 2019* [[paper](https://arxiv.org/abs/1904.03626) / [code](https://github.com/GuyHacohen/curriculum_learning)]
 <br/><img src="./images/power-of-cl.jpg" width="600"  alt="model structure"/><br/>
 
+5.**Curriculum Learning schedule 总结** [[url](https://www.dazhuanlan.com/2019/12/12/5df15a966a146/)]
+
 
 ### `Joint Model`
 1. [**信息抽取——实体关系联合抽取**](https://www.cnblogs.com/sandwichnlp/p/12049829.html)
