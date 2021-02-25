@@ -173,6 +173,10 @@ The related papers of Knowledge and Retrieval
 
 5.**Curriculum Learning schedule 总结** [[url](https://www.dazhuanlan.com/2019/12/12/5df15a966a146/)]
 
+### `Contrastive Learning`
+1. **Cross-Domain Sentiment Classification withIn-Domain Contrastive Learning** *NIPS2020* [[paper](https://arxiv.org/pdf/2012.02943.pdf]
+<br/><img src="./images/Contrastive Learning.jpg" width="600"  alt="model structure"/><br/>
+
 
 ### `Joint Model`
 1. [**信息抽取——实体关系联合抽取**](https://www.cnblogs.com/sandwichnlp/p/12049829.html)
