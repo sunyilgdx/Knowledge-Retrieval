@@ -216,6 +216,7 @@ The related papers of Knowledge and Retrieval
 
 ## [数据集](#dataset)
 1. [MedNLI](https://github.com/jgc128/mednli)
+2. [CBLUE](https://github.com/CBLUEbenchmark/CBLUE)
 
 ## [数据增强](#data-augment)
 1. [给你的数据加上杠杆：文本增强技术的研究进展及应用实践](https://zhuanlan.zhihu.com/p/111882970)
